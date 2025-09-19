@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1682125953 source:c:\users\diego avila\documents\cprojects\osmanagement\osmanagement.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<dirent.h>
+	<sys/stat.h>
+	<unistd.h>
+	<pthread.h>
+
